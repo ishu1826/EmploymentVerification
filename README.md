@@ -46,7 +46,7 @@ Employee Verification Project
 	The API will start at https://localhost:7283/api/verify-employment.
 	
     -	Frontend Setup	
-	    Place the EmploymentVerification.html and EmploymentVerificationForm.js in a folder.	
+	    Place the index.html and EmploymentVerificationForm.js in same folder.	
 	    Open the served HTML file in your browser (e.g., https://localhost:7283).
 
 #Usage
