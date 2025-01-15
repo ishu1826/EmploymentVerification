@@ -43,16 +43,16 @@ Employee Verification Project
 	Navigate to the backend project folder.	
 	Restore dependencies and run the application:
  
-	The API will start at https://localhost:7091/api/verify-employment.
+	The API will start at https://localhost:7283/api/verify-employment.
 	
     -	Frontend Setup	
 	    Place the EmploymentVerification.html and EmploymentVerificationForm.js in a folder.	
-	    Open the served HTML file in your browser (e.g., https://localhost:7091).
+	    Open the served HTML file in your browser (e.g., https://localhost:7283).
 
 #Usage
 
 	1. Run the project
-	2.Open the frontend(EmployementVerification.html) in your browser.
+	2.Open the frontend(index.html) in your browser.
 	
 	3.Fill in the following fields:
 	
