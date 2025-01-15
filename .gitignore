@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/EmployementVerification/.vs/EmployementVerification
+/EmployementVerification/EmployementVerification/bin/Debug/net7.0
+/EmployementVerification/EmployementVerification/obj
