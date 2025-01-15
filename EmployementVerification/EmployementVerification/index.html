@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employment Verification</title>
+</head>
+<body>
+    <h1>Employment Verification</h1>
+    <form id="verification-form">
+        <div>
+            <label for="employeeId">Employee ID:</label>
+            <input type="number" id="employeeId" required>
+        </div>
+        <div>
+            <label for="companyName">Company Name:</label>
+            <input type="text" id="companyName" required>
+        </div>
+        <div>
+            <label for="verificationCode">Verification Code:</label>
+            <input type="text" id="verificationCode" required>
+        </div>
+        <button type="submit">Verify</button>
+    </form>
+    <p id="result"></p>
+
+    <script src="EmploymentVerificationForm.js"></script>
+</body>
+</html>
