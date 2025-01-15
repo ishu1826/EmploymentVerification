@@ -6,7 +6,7 @@ Employee Verification Project
 
 	This project implements a simple employee verification system using the following technologies:
 	-Frontend: HTML and JavaScript.
-	-Backend: ASP.NET Core Web API.
+	-Backend: ASP.NET Core Web API.  version .Net 7.0
 	The application allows users to verify employment details for a given employee by submitting an Employee ID, Company Name, and Verification Code through a web form. The backend validates this information and responds with the verification result.
 
 #Approach
